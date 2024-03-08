@@ -8,4 +8,4 @@
 
 
 ![Hyeondle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeondle&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeondle&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![hyeondle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeondle)](https://github.com/hyeondle/github-readme-stats)
