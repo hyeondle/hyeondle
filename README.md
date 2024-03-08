@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://cv.42.fr/hyeondle" target="_blank">
-  <img src="https://img.shields.io/badge/42Seoul-White?logo=42&logoColor=Black"/>
+  <img src="https://img.shields.io/badge/42Seoul-White?logo=42&logoColor=#FFFFFF"/>
   </a>
 
 
