@@ -10,5 +10,5 @@
 
 <a>42 Cursus : 2022/07~ (Member : 2024/03/03)</a>
 
-![hyeondle's GitHub stats](https://github-readme-stats-hyeondles-projects.vercel.app?username=hyeondle&count_private=true&include_all_commits=true)
+![hyeondle's GitHub stats](https://github-readme-stats-hyeondles-projects.vercel.app/api?username=hyeondle&count_private=true&include_all_commits=true)
 [![hyeondle's GitHub stats](https://github-readme-stats-pi-lovat.vercel.app?username=hyeondle&count_private=true&include_all_commits=true)](https://github.com/hyeondle/github-readme-stats)
