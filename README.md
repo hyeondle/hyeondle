@@ -9,3 +9,5 @@
 <a>42 Piscine : 2022/04 ~ 05</a>
 
 <a>42 Cursus : 2022/07~ (Member : 2024/03/03)</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
