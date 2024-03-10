@@ -10,6 +10,6 @@
 
 <a>42 Cursus : 2022/07~ (Member : 2024/03/03)</a>
 
-![hyeondle's GitHub stats](https://github-readme-stats-hyeondles-projects.vercel.app/api?username=hyeondle&count_private=true&include_all_commits=true&theme=highcontrast)
+<!--![hyeondle's GitHub stats](https://github-readme-stats-hyeondles-projects.vercel.app/api?username=hyeondle&count_private=true&include_all_commits=true&theme=highcontrast)-->
 
 [![Top Langs](https://github-readme-stats-hyeondles-projects.vercel.app/api/top-langs/?username=hyeondle&layout=donut&count_pricate=true&include_all_commits=true&theme=highcontrast)](https://github.com/hyeondle/github-readme-stats)
