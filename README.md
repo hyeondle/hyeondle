@@ -6,5 +6,5 @@
 
 <a href="https://cv.42.fr/hyeondle"><img src="https://badge.mediaplus.ma/kettlebells/hyeondle?1337Badge=off&UM6P=off" alt="hyeondle's 42 stats" /></a>
 
-<a>42 Piscine : 2022/04~05</a>
+<a>42 Piscine : 2022/04 ~ 05</a>
 <a>42 Cursus : 2022/07~ (Member : 2024/03/03)</a>
