@@ -7,6 +7,7 @@
 <a href="https://cv.42.fr/hyeondle"><img src="https://badge.mediaplus.ma/kettlebells/hyeondle?1337Badge=off&UM6P=off" alt="hyeondle's 42 stats" /></a>
 
 <a>2016 한국 뇌 캠프 (Korean Brain Bee Challenge / Korean Brain Camp) 수료 : 2016/02/11 ~ 2016/02/12</a>
+
 <a>생성형 AI 레드팀 챌린지 참여 : 2024/4/12</a>
 
 <a>42 Piscine : 2022/04 ~ 05</a>
