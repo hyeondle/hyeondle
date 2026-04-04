@@ -18,8 +18,6 @@
 
 <a>생성형 AI 레드팀 챌린지 참여 : 2024/4/12</a>
 
-<a>paiza's nickname : linsio</a>
-
 ## ect
 <!--![hyeondle's GitHub stats](https://github-readme-stats-hyeondles-projects.vercel.app/api?username=hyeondle&count_private=true&include_all_commits=true&theme=highcontrast)-->
 
